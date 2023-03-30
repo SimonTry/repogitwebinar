@@ -1,6 +1,11 @@
 # AppDemoEnyoi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+¡Recuerden hacer las adaptaciones respectivas a su código de deploy en el workflow de gitHub Actions!
+Deben cambiar el nombre de la app por su app en azure y tabién cambiar el secreto de despliegue de azure que eso es único por aplicación.
+
+Cualquier duda la pueden poner en el foro. A continuacion los pasos para ejecutar el proyecto. Después de clonarlo hacer 
+`npm install` en el root del proyecto donde esta el archivo package.json
 
 ## Development server
 
